@@ -1,0 +1,8 @@
+name: mlflow_demos
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - -r requirements.txt

@@ -1,0 +1,8 @@
+# Training Config
+'model_save_dir': 'models/LR',
+
+# MLFlow config
+'project_name': MLFlow_Deployment_6
+'mlflow_tracking_uri': postgresql+psycopg2://postgres:postgres@127.0.0.1:5432/postgres
+'mlflow_experiment_name': Experiment_6
+'mlflow_artifact_uri': 
